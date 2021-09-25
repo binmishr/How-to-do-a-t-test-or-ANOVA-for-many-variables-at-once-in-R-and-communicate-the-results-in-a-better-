@@ -1,0 +1,1 @@
+# How-to-do-a-t-test-or-ANOVA-for-many-variables-at-once-in-R-and-communicate-the-results-in-a-better-
